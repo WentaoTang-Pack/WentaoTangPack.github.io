@@ -1,0 +1,72 @@
+# jemdoc: menu{menu.menu}{ml-for-che.html}, nofooter
+= CHE 596 (043): Machine Learning for Chemical Engineers
+
+*Instructor:* Wentao Tang \n
+*Offered:* 2025 Fall; 2028 Spring (planned)
+
+This page is created for the information of peer educators on how machine learning is currently taught to chemical engineers by myself at NC State University. If you would like to know more about the course or obtain certain teaching materials from me, please [mailto:wtang23@ncsu.edu contact me by email].
+
+== Course Information
+
+- *Level:* Graduate-level elective
+- *Programming language:* Python
+- *Packages loaded:* numpy, matplotlib, scipy, pandas, scikit-learn, torch, rdkit (optional)
+- *Editor:* Visual Studio Code
+
+== References
+
+No required textbook. The course draws on the following references:
+
+- Simeone, O. (2022). /Machine learning for engineers/. Cambridge University Press.
+- Alpaydın, E. (2020, 4th ed). /Introduction to machine learning/. MIT Press.
+- Wright, S. J., \& Recht, B. (2022). /Optimization for data analysis/. Cambridge University Press.
+- Shalev-Shwartz, S., \& Ben-David, S. (2014). /Understanding machine learning: From theory to algorithms/. Cambridge University Press.
+
+== Grading
+
+- Homework sets: 6% x 6
+- Take-home exams: 20% x 2
+- Course project: 24%
+
+== Contents
+
+=== Probability and Statistics
+
+- Random variables, distributions, multivariate distributions
+- Conditional distributions, Bayes formula, independence and correlation
+- Information-theoretic metrics, exponential families
+- Coding practice: functions, classes, numpy package, matplotlib package
+- Parametric inference, point estimation, interval estimation
+- Fisher information (matrix), unbiasedness and consistency
+- Coding practice: scipy package, pandas package
+
+=== Supervised Learning and Optimization: Basic
+
+- Least squares regression, logistic regression
+- Convex sets, convex functions, optimality condition
+- From feature engineering to kernel methods, underfitting and overfitting analysis
+- Coding practice: scikit-learn package, scikit-image, rdkit (optional)
+- Regularization and hyperparameter tuning
+- Convex optimization: gradient descent, proximal gradient descent, convergence analysis
+- Coding practice: scikit-learn pipeline
+
+=== Supervised Learning and Convex Optimization: Intermediate
+
+- Support vector machine for regression and classification
+- Kernel method from a Lagrangian duality point of view
+- Neural networks, deep learning, backpropagation
+- Coding practice: PyTorch
+
+=== Unsupervised Learning and Nonconvex Optimization
+
+- Discriminative vs. generative models, expectation-maximization algorithm
+- Variational techniques, sampling techniques, reparameterization
+- Stochastic gradient descent and Langevin dynamics
+- Coding practice: deep learning, convolutional neural networks in PyTorch
+- Dimensionality reduction, principal component analysis, variational autoencoder
+
+=== Statistical Learning Theory
+
+- Concentration inequalities, Rademacher complexity
+- Covering number in parametric learning
+- Hilbert space and reproducing kernel Hilbert space, representer theorem

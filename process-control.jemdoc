@@ -1,0 +1,55 @@
+# jemdoc: menu{menu.menu}{process-control.html}, nofooter
+= CHE 435/525: Process Systems Analysis and Control
+
+*Instructor:* Wentao Tang \n
+*Offered:* 2024 Spring, 2025 Spring, 2026 Spring, 2027 Spring
+
+This page is created for the information of peer educators on how process dynamics and control is currently taught by myself at NC State University. If you would like to know more about the course or obtain certain teaching materials from me, please [mailto:wtang23@ncsu.edu contact me by email].
+
+== Course Information
+
+- *Programming language:* Python or MATLAB
+- *Prerequisites:* Multivariable calculus, Ordinary Differential Equations. No linear algebra or probability and statistics is expected.
+
+== Textbooks
+
+- (For modest-aiming students:) D. E. Seborg, et al., /Process dynamics and control/, Wiley, 4th ed., 2016.
+- (For ambitious students:) C. Kravaris, I. K. Kookos. /Understanding process dynamics and control/, Cambridge University Press, 2021.
+
+== Contents
+
+=== Process Modeling and Process Dynamics
+
+- Introduction and illustrative examples, tank and reactor models
+- Laplace transform, solution of ODEs, qualitative behaviors analyzed by inverse Laplace transform
+- Simulation of nonlinear systems and their behaviors, linearization of nonlinearity
+
+=== Dynamical Analysis
+
+- First-order systems, zeroth-order systems, integrating systems, second-order systems
+- High-order systems, poles and stability, zeros and their effects, delays
+- Time-domain identification of transfer functions
+- Frequency response and Bode diagrams
+- Frequency-domain identification of transfer functions
+
+=== Feedback Control
+
+- Feedback loop, closed-loop transfer functions
+- Closed-loop stability, offset, performance metrics
+- Simulation of closed-loop responses
+- Direct controller synthesis, Q-parameterization
+- Bode stability criterion, \* Nyquist diagram, phase and gain margins
+- \* Nominal stability, robust stability, nominal performance, robust performance
+- Optimization of controller parameters
+
+=== Beyond Feedback Control
+
+- Feedforward-feedback controller synthesis
+- Cascade, inferential control, pairing and decoupling
+
+=== Advanced Process Control and Optimization (Optional)
+
+- Linear programming, nonlinear programming by sequential linear programming
+- Real-time optimization, nonlinear programming solvers
+- Model predictive control (state-space formulation)
+- Elements of nonlinear control theory

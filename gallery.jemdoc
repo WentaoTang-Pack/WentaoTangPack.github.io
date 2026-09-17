@@ -1,0 +1,31 @@
+# jemdoc: menu{menu.menu}{gallery.html}, nofooter
+= Gallery
+
+== Group Photos
+
+{{<div class="gallery-grid">
+<div class="gallery-item">
+<img src="images/gallery7.jpg" alt="End-of-summer gathering, September 2026" />
+<div class="gallery-caption">End-of-summer gathering (September 9, 2026 @ Howling Cow Dairy Education Center and Creamery).</div>
+</div>
+<div class="gallery-item">
+<img src="images/gallery1.jpg" alt="Group photo at the 2025 AIChE Annual Meeting" />
+<div class="gallery-caption">A photo of the group taken at the 2025 AIChE Annual Meeting (November 2, 2025 @ John B. Hynes Veterans Memorial Convention Center, Boston).</div>
+</div>
+<div class="gallery-item">
+<img src="images/gallery2.jpg" alt="Group photo at Prospective Graduate Students' Visit Weekend, March 2025" />
+<div class="gallery-caption">A photo of the group taken at the Prospective Graduate Students' Visit Weekend (March 7, 2025 @ The StateView Hotel Raleigh).</div>
+</div>
+<div class="gallery-item">
+<img src="images/gallery3.jpg" alt="Group photo at Prospective Graduate Students' Visit Weekend, March 2024" />
+<div class="gallery-caption">A photo of the group taken at the Prospective Graduate Students' Visit Weekend (March 22, 2024 @ Dorothy and Roy Park Alumni Center).</div>
+</div>
+<div class="gallery-item">
+<img src="images/gallery4.jpg" alt="End-of-summer gathering with Prof. Rumyantsev's group, August 2024" />
+<div class="gallery-caption">End-of-summer gathering with Prof. Artem M. Rumyantsev's research group (August 15, 2024 @ Howling Cow Dairy Education Center and Creamery. From left to right: Moritz Woelk, Damilola Fasiku, Cormak Weeks, Prof. Tang, Prof. Rumyantsev, and his group members.)</div>
+</div>
+<div class="gallery-item">
+<img src="images/gallery6.jpg" alt="End-of-year dinner with Prof. Rumyantsev's group, December 2023" />
+<div class="gallery-caption">An end-of-year dinner with Prof. Artem M. Rumyantsev's research group (December 19, 2023 @ Irregardless Restaurant).</div>
+</div>
+</div>}}
