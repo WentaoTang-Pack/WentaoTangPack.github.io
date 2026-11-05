@@ -5,6 +5,7 @@ Full list on [https://scholar.google.com/citations?user=K67JZlsAAAAJ&hl=en&oi=ao
 
 === Koopman operator methods for control and analysis
 
+- Tang, W. (2026). [https://arxiv.org/abs/2610.41141 Koopman-Lyapunov and Koopman-Riccati controller synthesis]. arXiv preprint, arXiv:2610.41141.
 - Tang, W. (2026). [https://arXiv.org/abs/2608.01018 Data-driven domain of attraction estimation via convergent Koopman-Zubov approximation]. /Automatica/, under review.
 - Tang, W. (2026). [https://arxiv.org/abs/2503.18269v3 Koopman-Nemytskii operators: A linear representation of nonlinear controlled systems and its learning for controller synthesis]. /IEEE Transactions on Automatic Control/, under revision.
 - Tang, W., \& Ye, X. (2026). [https://proceedings.mlr.press/v331/tang26a.html Koopman operator for stability analysis: Theory with a linear-radial product reproducing kernel]. /Proceedings of Machine Learning Research/, 331, 282-298 (L4DC 2026).
@@ -12,6 +13,7 @@ Full list on [https://scholar.google.com/citations?user=K67JZlsAAAAJ&hl=en&oi=ao
 
 === Data-driven state observation and system identification
 
+- Tang, W. (2026). [https://arxiv.org/abs/2609.36334 Koopman observability of nonlinear systems and data-driven Koopman-Luenberger observer]. /SIAM Journal on Control and Optimization/, under review.
 - Tang, W. (2025). [https://arxiv.org/abs/2509.20596v2 Data-driven state observers for measure-preserving systems]. /Computers \& Chemical Engineering/, under review.
 - Woelk, M., Morris, J. E., \& Tang, W. (2026). [https://doi.org/10.1016/j.jprocont.2026.103731 Neural Luenberger state observer for nonautonomous nonlinear systems]. /Journal of Process Control/, 163, 103731.
 - Woelk, M., \& Tang, W. (2026). [https://doi.org/10.1016/j.compchemeng.2025.109366 Identification of noisy Koopman models]. /Computers \& Chemical Engineering/, 204, 109366.
